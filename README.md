@@ -7,4 +7,4 @@ examples how to use recordlinkagenet lib
 * use the default similarity measures+
 * apply min similarity threshold filter 
 
-[code link](Example1BasicHowTo\Example1BasicHowTo\Program.cs)
+[code link](Example1BasicHowTo/Example1BasicHowTo/Program.cs)
